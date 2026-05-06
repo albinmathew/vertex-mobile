@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "tech.vertexmobile.applock",
+      "sha256_cert_fingerprints": [
+        "05:7D:99:E2:0A:DE:A9:80:55:C1:64:CA:8C:54:70:73:C7:29:8C:B4:6B:4B:B6:52:94:3D:C8:FD:24:AF:49:16"
+      ]
+    }
+  }
+]
